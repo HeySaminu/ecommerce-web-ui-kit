@@ -1,0 +1,4 @@
+{
+    "cssvar.files": ["*.css"],
+    "css.var.extensions": ["css", "jsx", "tsx"]
+}
